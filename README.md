@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HadiBayrami
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, and NLP
-- 🌱 I'm currently working on a project related to supervised learning
+<!-- - 🌱 I'm currently working on a project related to supervised learning
 <!-- - 💞️ I’m looking to collaborate on  -->
 <!-- - 🌱 I’m currently learning -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
